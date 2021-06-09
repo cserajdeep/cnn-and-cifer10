@@ -1,1 +1,1 @@
-# cnn-and-cifer10
+# CNN and CIFER10
